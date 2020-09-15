@@ -1,0 +1,59 @@
+{
+   "KPlugin": {
+          "Authors": [
+              {
+                  "Email": "christophe.lavie@laposte.net",
+                  "Name": "Christophe LAVIE"
+              }
+          ],
+          "Id": "bigsur-colorful-solar",
+          "License": "LGPLv3",
+          "Name": "Big Sur Solar Dynamic Colorful Wallpaper"
+   },
+   "Wallpaper": {
+     "Preview": "bigsur_colorful-light.jpg",
+     "Type": "solar",    
+     "MetaData": [    
+      {
+        "Elevation": -48.01,
+        "Azimuth": -31.12,
+        "FileName": "bigsur_colorful-dark.jpg"
+      },
+      {
+        "Elevation": -47.64,
+        "Azimuth": 31.93,
+        "FileName": "bigsur_colorful-dark.jpg"
+      },
+      {
+        "Elevation": -14.56,
+        "Azimuth": 61.40,
+        "FileName": "bigsur_colorful-light.jpg"
+      },
+      {
+        "Elevation": 25.76,
+        "Azimuth": 69.81,
+        "FileName": "bigsur_colorful-light.jpg"
+      },
+      {
+        "Elevation": 66.32,
+        "Azimuth": 59.51,
+        "FileName": "bigsur_colorful-light.jpg"
+      },
+      {
+        "Elevation": 65.76,
+        "Azimuth": -60.10,
+        "FileName": "bigsur_colorful-light.jpg"
+      },
+      {
+        "Elevation": 25.15,
+        "Azimuth": -69.67,
+        "FileName": "bigsur_colorful-dark.jpg"
+      },
+      {
+        "Elevation": -15.13,
+        "Azimuth": -61.67,
+        "FileName": "bigsur_colorful-dark.jpg"
+      }
+    ]
+  }
+}
